@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #fafafa;
+}
+
+.step {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.assets-section {
+  margin-bottom: 10px;
+}
+
+.assets-section ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.assets-section li {
+  background: #f0f0f0;
+  margin: 2px 0;
+  padding: 2px 5px;
+}
+
+.assets-section form {
+  margin-top: 5px;
+}
+
+h2 {
+  margin-top: 0;
+}
